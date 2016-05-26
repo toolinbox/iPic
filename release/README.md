@@ -1,5 +1,16 @@
 # iPic Change Log
 
+## v0.6.2
+2016/05/26
+
+English
+
+- Same with v0.6.0, only build as dmg file.
+
+简体中文
+
+- 和 v0.6.0 相同，只是使用 dmg 进行封装。
+
 ## v0.6.0
 2016/05/25
 
