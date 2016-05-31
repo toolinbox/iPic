@@ -1,5 +1,24 @@
 # iPic Change Log
 
+## v0.7.1
+
+2016/05/31
+
+English
+
+- Support upload image to [Imgur](https://imgur.com)
+- Support key prefix for [Qiniu](https://qiniu.com)
+- Record more upload history. Save when quit iPic.
+- Support start at login.
+
+
+简体中文
+
+- 支持上传图片至 **Imgur**
+- 七牛云支持文件名前缀（可理解为“文件夹”）
+- 记录更多上传历史，退出时保存
+- 支持开机自启动
+
 ## v0.6.2
 2016/05/26
 
