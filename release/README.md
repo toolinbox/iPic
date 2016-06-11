@@ -1,5 +1,18 @@
 # iPic Change Log
 
+## v0.7.6
+
+2016/06/11
+
+English
+
+- Support upload image to [UpYun](https://www.upyun.com)
+
+简体中文
+
+- 支持上传图片至 [又拍云](https://www.upyun.com)
+
+
 ## v0.7.1
 
 2016/05/31
