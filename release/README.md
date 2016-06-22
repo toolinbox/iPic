@@ -1,5 +1,24 @@
 # iPic Change Log
 
+## v0.8.0
+
+2016/06/22
+
+English
+
+- Support upload image to [Flickr](https://www.flickr.com)
+- Support upload by services in Finder.
+- Support upload by dragging image to iPic in menu bar.
+
+
+简体中文
+
+- 支持上传图片至 [Flickr](https://www.flickr.com)
+- 可以在 Finder 中右击图片、使用 iPic 上传
+- 支持拖动图片至菜单栏中 iPic 图标后上传
+- 七牛云支持图片样式
+- 又拍云支持自定义版本
+
 ## v0.7.6
 
 2016/06/11
