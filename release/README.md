@@ -1,5 +1,21 @@
 # iPic Change Log
 
+## v1.0.5
+
+2016/06/27
+
+English
+
+- Support sandbox mode.
+- Adjust menu bar icon.
+
+
+简体中文
+
+- 支持沙盒模式
+- 调整菜单栏图标
+
+
 ## v0.8.0
 
 2016/06/22
