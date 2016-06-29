@@ -1,5 +1,19 @@
 # iPic Change Log
 
+## v1.0.6
+
+2016/06/29
+
+English
+
+- Add image type in link when upload to Weibo.
+
+
+简体中文
+
+- 上传至微博时增加图片类型后缀
+
+
 ## v1.0.5
 
 2016/06/27
