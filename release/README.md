@@ -1,5 +1,20 @@
 # iPic Change Log
 
+
+## v1.0.7
+
+2016/07/01
+
+English
+
+- Support upload to your Imgur account.
+
+
+简体中文
+
+- 支持上传至自己的 Imgur 账户
+
+
 ## v1.0.6
 
 2016/06/29
