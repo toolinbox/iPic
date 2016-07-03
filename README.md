@@ -1,7 +1,3 @@
----
-title: iPic - Easily Upload Pictures
-layout: post
----
 
 ![](https://farm8.staticflickr.com/7322/28018346695_f1461c7a09_o.jpg)
 
