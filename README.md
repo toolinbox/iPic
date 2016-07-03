@@ -78,6 +78,7 @@ Pages:
 ![](https://farm8.staticflickr.com/7328/27923818182_7ecdbd7f7d_o.gif)
 
 Sketch:
+
 ![](https://farm8.staticflickr.com/7345/27948422771_0c8efc408c_o.gif)
 
 iPic supports the popular image formats such as jpg, png, gif, etc.
