@@ -1,3 +1,4 @@
 http://upload.qiniu.com/
 http://upload-z1.qiniu.com/
 http://upload-z2.qiniu.com/
+http://upload-na0.qiniu.com/
