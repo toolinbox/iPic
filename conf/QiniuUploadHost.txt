@@ -1,4 +1,5 @@
-http://upload.qiniu.com/
-http://upload-z1.qiniu.com/
-http://upload-z2.qiniu.com/
-http://upload-na0.qiniu.com/
+https://up.qbox.me/
+https://up-z1.qbox.me/
+https://up-z2.qbox.me/
+https://up-na0.qbox.me/
+https://up-as0.qiniup.com/
